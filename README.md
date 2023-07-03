@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MarcoCornejo, a software developer with 5+ years of experience working on projects from Academia, Startups, and Corporate
-- 👀 I’m interested in leveraging Cloud Infrastructure and Serverless resources to solve complex problems
-- 🌱 I’m currently preparing for the Professional AWS Cloud Architect Certification
+- 👋 Hi, I’m @MarcoCornejo, a certified AWS Solutions Architect Professional with 10+ years of experience working on projects from Academia, Startups, and Corporate
+- 👀 I’m interested in leveraging Cloud Infrastructure resources to solve complex problems with elegant solutions
 - 📫 Reach out to me by email: alejandroc_89@hotmail.com or at LinkedIn: https://www.linkedin.com/in/marco-cornejo/
 
 <!---
